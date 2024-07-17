@@ -1,0 +1,8 @@
+{
+    "server": {
+      "port": 3001
+    },
+    "api": {
+      "url": "https://d3398n96t5wqx9.cloudfront.net/UsersAquisition/"
+    }
+  }
