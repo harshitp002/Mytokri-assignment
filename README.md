@@ -1,4 +1,4 @@
-# Mytokri Project
+# Mytokri Assignment
 
 This project includes a React frontend and an Express backend for a phone number submission landing page with Google Ads conversion tracking.
 
